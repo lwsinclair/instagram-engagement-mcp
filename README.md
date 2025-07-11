@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bob-lance-instagram-engagement-mcp-badge.png)](https://mseep.ai/app/bob-lance-instagram-engagement-mcp)
+
 # Instagram Engagement MCP
 
 [![npm version](https://img.shields.io/npm/v/instagram-engagement-mcp.svg)](https://www.npmjs.com/package/instagram-engagement-mcp)
